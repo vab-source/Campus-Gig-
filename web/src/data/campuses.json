@@ -1,0 +1,9 @@
+[
+  { "id": "asu", "name": "Arizona State University", "region": "English Countries" },
+  { "id": "uc-berkeley", "name": "UC Berkeley", "region": "English Countries" },
+  { "id": "tu-berlin", "name": "TU Berlin", "region": "European Union" },
+  { "id": "eth-zurich", "name": "ETH Zurich", "region": "European Union" },
+  { "id": "ntu", "name": "Nanyang Technological University", "region": "Asia Pacific" },
+  { "id": "nus", "name": "National University of Singapore", "region": "Asia Pacific" }
+]
+

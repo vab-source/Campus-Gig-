@@ -1,0 +1,87 @@
+[
+  {
+    "id": "job-asu-library-assistant",
+    "title": "Library Assistant (Evenings)",
+    "organization": "ASU Library",
+    "campus": "Arizona State University",
+    "campusId": "asu",
+    "region": "English Countries",
+    "type": "On-campus",
+    "hours": "10-15/wk",
+    "payRange": "$14-16/hr",
+    "applyUrl": "https://example.edu/jobs/asu-library-assistant",
+    "postedAt": "2025-09-01",
+    "tags": ["library", "student", "evening"]
+  },
+  {
+    "id": "job-ucb-it-helpdesk",
+    "title": "IT Helpdesk Student Assistant",
+    "organization": "UC Berkeley ITS",
+    "campus": "UC Berkeley",
+    "campusId": "uc-berkeley",
+    "region": "English Countries",
+    "type": "On-campus",
+    "hours": "15-20/wk",
+    "payRange": "$18-20/hr",
+    "applyUrl": "https://example.edu/jobs/ucb-it-helpdesk",
+    "postedAt": "2025-08-25",
+    "tags": ["helpdesk", "it", "student"]
+  },
+  {
+    "id": "job-tu-berlin-ra",
+    "title": "Research Assistant (Data)",
+    "organization": "TU Berlin, CS Dept",
+    "campus": "TU Berlin",
+    "campusId": "tu-berlin",
+    "region": "European Union",
+    "type": "TA/RA",
+    "hours": "8-12/wk",
+    "payRange": "€14-18/hr",
+    "applyUrl": "https://example.de/jobs/tu-berlin-ra",
+    "postedAt": "2025-08-30",
+    "tags": ["research", "data", "student"]
+  },
+  {
+    "id": "job-eth-zurich-lab-tech",
+    "title": "Lab Technician Assistant",
+    "organization": "ETH Zurich Bio Lab",
+    "campus": "ETH Zurich",
+    "campusId": "eth-zurich",
+    "region": "European Union",
+    "type": "On-campus",
+    "hours": "10-15/wk",
+    "payRange": "CHF 22-26/hr",
+    "applyUrl": "https://example.ch/jobs/eth-lab-tech",
+    "postedAt": "2025-09-02",
+    "tags": ["lab", "biology"]
+  },
+  {
+    "id": "job-ntu-media-assistant",
+    "title": "Media Center Assistant",
+    "organization": "NTU Media Services",
+    "campus": "Nanyang Technological University",
+    "campusId": "ntu",
+    "region": "Asia Pacific",
+    "type": "On-campus",
+    "hours": "8-12/wk",
+    "payRange": "S$12-14/hr",
+    "applyUrl": "https://example.sg/jobs/ntu-media-assistant",
+    "postedAt": "2025-08-28",
+    "tags": ["media", "student"]
+  },
+  {
+    "id": "job-nus-remote-content",
+    "title": "Content Assistant (Remote)",
+    "organization": "NUS Communications",
+    "campus": "National University of Singapore",
+    "campusId": "nus",
+    "region": "Asia Pacific",
+    "type": "Remote",
+    "hours": "5-10/wk",
+    "payRange": "S$10-12/hr",
+    "applyUrl": "https://example.sg/jobs/nus-content-remote",
+    "postedAt": "2025-08-20",
+    "tags": ["content", "remote"]
+  }
+]
+
